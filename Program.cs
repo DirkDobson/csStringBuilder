@@ -15,10 +15,8 @@ namespace csFundamentals
             .Append("Header")
             .AppendLine()
             .Append('-', 10)
-
             .Replace('-', '+')
-
-           .Remove(0,10)
+            .Remove(0,10)
 
             .Insert(0, new string('-', 10));
 
