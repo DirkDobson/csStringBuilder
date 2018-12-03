@@ -1,0 +1,11 @@
+/Users/dirkvancouver/Desktop/Projects/c#practice/StringBuilder/bin/Debug/netcoreapp2.1/StringBuilder.deps.json
+/Users/dirkvancouver/Desktop/Projects/c#practice/StringBuilder/bin/Debug/netcoreapp2.1/StringBuilder.runtimeconfig.json
+/Users/dirkvancouver/Desktop/Projects/c#practice/StringBuilder/bin/Debug/netcoreapp2.1/StringBuilder.runtimeconfig.dev.json
+/Users/dirkvancouver/Desktop/Projects/c#practice/StringBuilder/bin/Debug/netcoreapp2.1/StringBuilder.dll
+/Users/dirkvancouver/Desktop/Projects/c#practice/StringBuilder/bin/Debug/netcoreapp2.1/StringBuilder.pdb
+/Users/dirkvancouver/Desktop/Projects/c#practice/StringBuilder/obj/Debug/netcoreapp2.1/StringBuilder.csprojAssemblyReference.cache
+/Users/dirkvancouver/Desktop/Projects/c#practice/StringBuilder/obj/Debug/netcoreapp2.1/StringBuilder.csproj.CoreCompileInputs.cache
+/Users/dirkvancouver/Desktop/Projects/c#practice/StringBuilder/obj/Debug/netcoreapp2.1/StringBuilder.AssemblyInfoInputs.cache
+/Users/dirkvancouver/Desktop/Projects/c#practice/StringBuilder/obj/Debug/netcoreapp2.1/StringBuilder.AssemblyInfo.cs
+/Users/dirkvancouver/Desktop/Projects/c#practice/StringBuilder/obj/Debug/netcoreapp2.1/StringBuilder.dll
+/Users/dirkvancouver/Desktop/Projects/c#practice/StringBuilder/obj/Debug/netcoreapp2.1/StringBuilder.pdb
